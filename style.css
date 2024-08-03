@@ -1,0 +1,21 @@
+h1 {
+    color: #0D1F2D;
+    text-align: center;
+    background-color: #E4C3AD;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+img {
+    height: 40px;
+    width: auto;
+    float: right;
+}
+
+p {
+    background-color: #9EA3B0;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
