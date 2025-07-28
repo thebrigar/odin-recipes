@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color: blanchedalmond;
+}
